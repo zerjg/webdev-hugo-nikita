@@ -10,7 +10,7 @@ featured_image = 'fpace.jpg'
 
 Интеллектуальные технологии, которые реагируют на вас и предстоящий путь.
 
-![poster1/f_pace_poster1.jpg]
+![poster1](/f_pace_poster1.jpg)
 
 ПОВЫШЕННАЯ ПРОИЗВОДИТЕЛЬНОСТЬ.
 
