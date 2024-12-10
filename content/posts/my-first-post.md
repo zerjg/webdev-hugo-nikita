@@ -10,7 +10,7 @@ featured_image = 'fpace.jpg'
 
 Интеллектуальные технологии, которые реагируют на вас и предстоящий путь.
 
-![poster1](https://ltdfoto.ru/images/2024/10/02/SNIMOK-EKRANA-2024-10-02-223739-min.png)
+![poster1](/f_pace_poster1)
 
 ПОВЫШЕННАЯ ПРОИЗВОДИТЕЛЬНОСТЬ.
 
