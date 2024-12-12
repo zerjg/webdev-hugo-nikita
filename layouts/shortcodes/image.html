@@ -1,0 +1,4 @@
+{{ $image := resources.GetMatch (.Get "src") }}
+{{ if $image }}
+  <img src="{{ $image.Permalink }}" alt="" />
+{{ end }}
