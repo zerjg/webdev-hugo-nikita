@@ -12,7 +12,7 @@ featured_image = 'fpace.jpg'
 
 ![poster1](f_pace_poster1.jpg)
 
-{{ $image1 := .Resources.GetMatch "f_pace_poster1.jpg" }}
+{{ $image1 := resources.GetMatch "f_pace_poster1.jpg" }}
 <img src="{{ $image1.RelPermalink }}" width="{{ $image1.Width }}" height="{{ $image1.Height }}">
 
 ПОВЫШЕННАЯ ПРОИЗВОДИТЕЛЬНОСТЬ.
@@ -21,7 +21,7 @@ featured_image = 'fpace.jpg'
 
 ![poster2](f_pace_poster2.jpg)
 
-{{ $image2 := .Resources.GetMatch "f_pace_poster2.jpg" }}
+{{ $image2 := resources.GetMatch "f_pace_poster2.jpg" }}
 <img src="{{ $image2.RelPermalink }}" width="{{ $image2.Width }}" height="{{ $image2.Height }}">
 
 JAGUAR F-PACE SVR 575 EDITION
