@@ -1,5 +1,4 @@
 baseURL = 'https://zerjg.github.io/webdev-hugo-nikita/'
-relativeURLs = true
 languageCode = 'en-us'
 title = 'Jaguar'
 theme = 'ananke'
